@@ -1,0 +1,7 @@
+domain: my.domain
+repo: fin-shine.com/kubesphere-wangrong
+resources:
+- group: webapp
+  kind: Guestbook
+  version: v1
+version: "2"
